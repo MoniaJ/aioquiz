@@ -98,8 +98,6 @@ pozwala zmieniać aktualny folder na inny. Na przykład jeśli jesteście w
 `C:\Users\Name`, możecie wejść do katalogu ze swoimi dokumentami wpisując
 `cd Documents`. Wykonując komendę `dir`, zobaczycie coś bardzo podobnego.
 Natomiast komenda `cd..` przeniesie Was o jeden poziom wyżej w drzewku
-katalogów, czyli do katalogu, który..................................
-up in the directory tree, that is, to the directory that cont
-
+katalogów, czyli do katalogu nadrzędnego.
 
 [python.org](http://python.org)
