@@ -107,7 +107,7 @@ wszystko. W tej chwili jedynymi znanymi nam wartościami są liczby:
 	>>> print("2 + 2 =", 2 + 2) 
 	2 + 2 = 4
 
-Kończymy chwilowo z konsolą intraktywną. Aby z niej wyjść, wpiszcie
+Kończymy chwilowo z konsolą interaktywną. Aby z niej wyjść, wpiszcie
 quit():
 
     	>>> quit()
@@ -152,7 +152,7 @@ powinna być w osobnym wierszu. Na przykład:
     print("Bye.")
 
 Aby zwiększyć przejrzystość pliku `visitingcard.py`, w dowolnym jego
-miejscu możemy wprowadzać puste wiersze. Tutaj oddzieliśmy nagłówek
+miejscu możemy wprowadzać puste wiersze. Tutaj oddzieliliśmy nagłówek
 wiadomości od jej zawartości i zakończenia.
 
 
@@ -360,7 +360,7 @@ Czy to wystarczy, by ulepszyć nasz program?
     60.5
     >>> weight 
     '60.5'
-    >>> print(w + 3)
+    >>> print(weight + 3)
     Traceback (most recent call last):
     File "<stdin>", line 1, in <module>
     TypeError: Can't convert 'int' object to str implicitly
@@ -475,7 +475,7 @@ informacja, że jest to funkcja:
 
 	>>>  input \# doctest: +SKIP <built-in function input>
 
-Aby wywołać funcję, musimy użyć nawiasów po nazwie funcji:
+Aby wywołać funkcję, musimy użyć nawiasów po nazwie funkcji:
 
 	>>>  input() \# doctest: +SKIP
 
