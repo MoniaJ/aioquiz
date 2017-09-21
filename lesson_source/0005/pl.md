@@ -245,7 +245,7 @@ Istnieje obecnie mnóstwo metod formatowania stringów:
     Po podaniu parametru num rozbija string tylko do ilości num podstringów.
 25. splitlines( num=string.count('n')) - rozbija string na wszystkie (lub 
     na podaną ilość num) NOWE LINIE i zwraca listę linii z usuniętym znakiem NOWA LINIA.
-26. startswith(str, beg=0,end=len(string)) - dstala, czy string lub podstring stringa
+26. startswith(str, beg=0,end=len(string)) - ustala, czy string lub podstring stringa
     (jeśli początkowy index beg i końcowy index end zostały podane) zaczyna się 
     od podstringu str; zwraca true, a w przeciwnym razie zwraca false.
 27. strip(\[chars\]) - przeprowadza jednocześnie metody lstrip() i rstrip() na stringu.
