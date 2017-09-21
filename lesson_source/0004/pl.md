@@ -97,7 +97,7 @@ właściwą klasyfikację dla obliczonego BMI, przy użyciu poniższej tabeli:
   	25,0 – 29,99   nadwaga
   	≥ 30,0         otyłość
 
-Musimy użyć "komendy warunkowej' if. Wykona ona dalszy ciąg programu
+Musimy użyć 'komendy warunkowej' if. Wykona ona dalszy ciąg programu
 zależnie od podanego warunku:
 
 Ćwiczenie - prosty pythonowy kalkulator
