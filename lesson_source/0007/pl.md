@@ -142,7 +142,7 @@ Możesz zmienić jeden lub wiele elementów listy poprzez wybranie elementu,
 który chcesz zmienić i nadanie mu nowej wartości. Możesz również dodawać do listy
 nowe elementy używając metody append().
 
-	>>>  lista = ['fizyka', 'chemia', 1997, 2000\]
+	>>>  lista = ['fizyka', 'chemia', 1997, 2000]
 	>>>  print(lista[2]) 
 	>>>  lista[2] = 2001
 	>>>  print(list[2])
@@ -158,7 +158,7 @@ Aby usunąć element z listy, możesz użyć komendy del, jeśli wiesz dokładni
 który element chcesz usunąć lub metody remove(), jeśli tego nie wiesz.
 Na przykład:
 
-	>>>  lista1 = \['fizyka', 'chemia', 1997, 2000\]
+	>>>  lista1 = ['fizyka', 'chemia', 1997, 2000]
 	>>>  print(lista1) 
 	>>>  del lista1[2]
 	>>>  print(lista1)
@@ -208,7 +208,7 @@ lub pary klucz-wartość. Prześledź poniższe przykłady:
 	>>>  słownik['Zawód'] = 'Uczeń'  # zmiana wartości w istniejącym elemencie
 	>>>  słownik['Szkoła'] = "Szkoła podstawowa"  # Dodanie nowego elementu do słownika
 	>>>  print(słownik['Wiek'])
-	>>>  print(słownik['School'])
+	>>>  print(słownik['Szkoła'])
 
 Usuwanie elementów słownika
 ---------------------------
