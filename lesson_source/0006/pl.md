@@ -34,7 +34,7 @@ program zrobił to za nas.
 Pętla `for`
 ===========
 
-Pętle służa do poradzenia sobie z takimi powtarzalnymi czynnościami.
+Pętle służą do poradzenia sobie z takimi powtarzalnymi czynnościami.
 Pozostając w świątecznej atmosferze, wyobraźmy sobie, że jesteśmy Świętym
 Mikołajem i musimy przynieść każdemu prezent.
 
@@ -244,7 +244,7 @@ Zwracanie wartości
 ------------------
 
 Funkcje, których wcześniej używaliśmy posiadają jedną ważną cechę, której brakuje 
-funkcjom stworzonym przez nas - odostępniają wartość, którą wyliczyły, zamiast ją
+funkcjom stworzonym przez nas - udostępniają wartość, którą wyliczyły, zamiast ją
 drukować. Aby osiągnąć taki sam efekt, musisz użyć instrukcji return.
 Jest to specjalna instrukcja, którą można znaleźć tylko w funkcjach.
 
